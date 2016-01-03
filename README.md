@@ -7,4 +7,4 @@ You must compile it with [NASM](http://www.nasm.us) running the following comman
 
 `nasm -fbin LFNToSFN.asm -o LFNToSFN.COM`
 
-*Edit and use this code as you like in your own OS. Currently it uses DOS interrupt 21h (Because we need it for our DOS). Don't forget to remove `org 100h` if you aren't compiling it as COM file*
+*Edit and use this code as you like in your own OS. Currently it uses DOS interrupt 21h (Because we need it for our DOS). Don't forget to remove `org 100h` if you aren't compiling it as COM file.*
