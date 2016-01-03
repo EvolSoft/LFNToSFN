@@ -1,5 +1,5 @@
 # LFNToSFN
-An useful resource for OS developers to convert input text to Short FileName and Long FileName. Use this code in your own Kernel FileSystem functions.
+An useful resource for OS developers to convert input text to Short FileName and Long FileName. It's made for the DOS but you can edit and use the code in your own Kernel FileSystem functions.
 
 You can run the example as DOS 16 bit COM file.
 
